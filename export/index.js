@@ -47,9 +47,9 @@ async function sendKomen(auth, content) {
             console.log("[" + now() + "]" + " - success : " + content);
         })
         .catch(error => {
-            if (!error.response.status === 429) {
-                console.log("[" + now() + "] - " + error);
-            }
+            // if (!(error.response && error.response.status === 429)) {
+            //     console.log("[" + now() + "]" + error);
+            // }
         });
 }
 
@@ -59,4 +59,4 @@ function now() {
     return time;
 }
 
-setInterval(run, 180000);
+setInterval(run, 10000);

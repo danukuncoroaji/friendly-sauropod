@@ -99,6 +99,121 @@
             "id_account": "1075102666641903736",
             "content": "!faucet 0x52579f996ca36a1761f3789ffe34b5049485af5c",
             "Authorization": "MTA3NTEwMjY2NjY0MTkwMzczNg.G6cgMd.98iKeyZtMh5TapNEabFK4UWRt2DGiWhshGBAbY"
+        },
+        {
+            "id_account": "1075455214284451890",
+            "content": "!faucet 0x2614db0511081fd0feaac2da4e301452e527ee99",
+            "Authorization": "MTA3NTQ1NTIxNDI4NDQ1MTg5MA.Go48cB.k4L-qgDqrWeJPihCd_vKemIugjGDS8ID2dJufs"
+        },
+        {
+            "id_account": "1075459827842691222",
+            "content": "!faucet 0xcc8a9958db782f55bd81a07e7e0b79bb8c9d0d2e",
+            "Authorization": "MTA3NTQ1OTgyNzg0MjY5MTIyMg.GD8DXD.9CVpsf9_Ef_zJqd1BduKSTgNBrwxGapLR6fUKY"
+        },
+        {
+            "id_account": "1075460524306878555",
+            "content": "!faucet 0x260cfa46fde5e1230f28eaf49d104037d1025c25",
+            "Authorization": "MTA3NTQ2MDUyNDMwNjg3ODU1NQ.GX9nw7.YWc8VLGgabYqxunN82F-pTcow69FfcaEIJnJ1k"
+        },
+        {
+            "id_account": "1075461486970945546",
+            "content": "!faucet 0xbeafff9b8c3dec6c1a3338368052e0439aae2b1a",
+            "Authorization": "MTA3NTQ2MTQ4Njk3MDk0NTU0Ng.GX4JaH.eMwujgyTlMTTmM6dlyALpH4vg22MhBm2_LOVDk"
+        },
+        {
+            "id_account": "1075462570447749236",
+            "content": "!faucet 0xb54a79caec42e15008e6b1e394d0ef7227b79618",
+            "Authorization": "MTA3NTQ2MjU3MDQ0Nzc0OTIzNg.Gb5S4G.FpCALaWiK-UEQ8H_R6n4W1D1jxCh2msvW2sT3s"
+        },
+        {
+            "id_account": "1075466044518436934",
+            "content": "!faucet 0x3b30392746d2ef04ee68ef7bafdffee56cf39915",
+            "Authorization": "MTA3NTQ2NjA0NDUxODQzNjkzNA.GD-UNj.DLF5DTgvRD4hA8tzGcPl81qvSl9dohlzrzFMSw"
+        },
+        {
+            "id_account": "1075466898285805568",
+            "content": "!faucet 0xeb7e3fcdb51a4337223e5be70e6c4a392571bda7",
+            "Authorization": "MTA3NTQ2Njg5ODI4NTgwNTU2OA.GF_BhH.Qt-kB59TiaM67VFKz0n4zpusVmRkyo7rgNEkG8"
+        },
+        {
+            "id_account": "1075466898285805568",
+            "content": "!faucet 0x94017900c3a839c2ec5efb4a36afe3c8ce87c8c4",
+            "Authorization": "MTA3NTQ2Njg5ODI4NTgwNTU2OA.G2cHw_.hlZwT_laLxZJRegnzEP-AeL0qYFZpnaaqnOAbc"
+        },
+        {
+            "id_account": "1075467985378091038",
+            "content": "!faucet 0xc669346a199d188139fcf8535eef7307df768347",
+            "Authorization": "MTA3NTQ2Nzk4NTM3ODA5MTAzOA.GE3FgI.ZYvgalxWbw3t70i-6gliePggFhuQRAtY9WEWRw"
+        },
+        {
+            "id_account": "1075468827887947866",
+            "content": "!faucet 0x3d21f6dfd712fd5cbb2dd7205b01a2824b57529b",
+            "Authorization": "MTA3NTQ2ODgyNzg4Nzk0Nzg2Ng.GRMSgE.pNzo6NOrO77EHLsGc8uvXYqZtzsEhA3XCosq1k"
+        },
+        {
+            "id_account": "1075469491783356516",
+            "content": "!faucet 0x86306558bc811db9c068d09267c2514b9bb89bcf",
+            "Authorization": "MTA3NTQ2OTQ5MTc4MzM1NjUxNg.GuxkFY.Q8v4d8lSjASM6dtdET4vMbQ-NRdtB88dYFFVu0"
+        },
+        {
+            "id_account": "1075470184741097562",
+            "content": "!faucet 0xfbf3c04312d7cebfacc4a4fb2c3f22f3efc6c05a",
+            "Authorization": "MTA3NTQ3MDE4NDc0MTA5NzU2Mg.GqbhKI.Zm_Nh0nFj5iwkzGmLbXlnSNellHXP3r0pNIhQA"
+        },
+        {
+            "id_account": "1075474446615330926",
+            "content": "!faucet 0xe4be8431e024c2af47e2f5f6b13b6860a03b7b80",
+            "Authorization": "MTA3NTQ3NDQ0NjYxNTMzMDkyNg.GeVcCw.VhWJQjwzMU1yH9gA-W8JUBY8zIiXET1ZE8OVWo"
+        },
+        {
+            "id_account": "1075475047545847881",
+            "content": "!faucet 0xda21c7f2494d8afca5c0f306208dec2ec72b267e",
+            "Authorization": "MTA3NTQ3NTA0NzU0NTg0Nzg4MQ.G9_gDg.X8x4B4qxYis0VsMPixEh7FqdUTgQUwYF6XyoL4"
+        },
+        {
+            "id_account": "1075475047545847881",
+            "content": "!faucet 0x9399d69dc7abc4f67fbe14663511e109c8705e18",
+            "Authorization": "MTA3NTQ3NTA0NzU0NTg0Nzg4MQ.GK_NCf.ExBhQz5B8WGyBUaXLuKQSmszoA2aZts98qeJ9w"
+        },
+        {
+            "id_account": "1075475691124031501",
+            "content": "!faucet 0x73678b6ad68bab52092488791ab6b3f4c0257975",
+            "Authorization": "MTA3NTQ3NTY5MTEyNDAzMTUwMQ.Gv4F0N.g2AXaek20h9tuFkyfm4EnKLYN0JJflpjLa2CjU"
+        },
+        {
+            "id_account": "1075476570287898654",
+            "content": "!faucet 0x01616d2efa7f2e2572059e32d37e5f0a105c9324",
+            "Authorization": "MTA3NTQ3NjU3MDI4Nzg5ODY1NA.G-fmM_.xe6-WcQCfgkohn5Ui2v8FXWvdHD-yqcVsdghyI"
+        },
+        {
+            "id_account": "1075477254584418374",
+            "content": "!faucet 0x11d1c33eb2b19060302f1f684d4cfc654a790579",
+            "Authorization": "MTA3NTQ3NzI1NDU4NDQxODM3NA.GjYAUd.viCGOaupQn8gPETUuqBmqza7Hxu6Jzj59UhHm4"
+        },
+        {
+            "id_account": "1075374360300367883",
+            "content": "!faucet 0x4f34c56be1196ac3bde264f89b39a54edc0a2615",
+            "Authorization": "MTA3NTM3NDM2MDMwMDM2Nzg4Mw.GoCrXe.rbcRracIt7YsWWLvDWu5U4GKzIWTCuSpbW2Cks"
+        },
+        {
+            "id_account": "1075376984072392744",
+            "content": "!faucet 0x7049d796530fbae021504165d281879b84609f08",
+            "Authorization": "MTA3NTM3Njk4NDA3MjM5Mjc0NA.GsIich.0g3AC-2EyQuT0_m79mdRsq3azwqcNaRRSOQLpY"
+        },
+        {
+            "id_account": "1075377697871642745",
+            "content": "!faucet 0x70c202f5ebcbc69680fbce8dc3cf9f638d0fcc06",
+            "Authorization": "MTA3NTM3NzY5Nzg3MTY0Mjc0NQ.Ge7car.Re4fI4d1q3gvywaha9LIbdyApOo3XMQrHRBFHw"
+        },
+        {
+            "id_account": "1075430386752040990",
+            "content": "!faucet 0x9a90e9b3f263d4b571418fef3d4f6a5621b45974",
+            "Authorization": "MTA3NTQzMDM4Njc1MjA0MDk5MA.GD0-EJ.SdokKOd05oZOModWWMbi8jmyALwkep-BiJSTns"
+        },
+        {
+            "id_account": "1075435172507439134",
+            "content": "!faucet 0x5b7bbfe3d2fa358592e1a6c402074daa15c7e7b1",
+            "Authorization": "MTA3NTQzNTE3MjUwNzQzOTEzNA.G3jHo0.QaSZ1ro1cGkNqcj-5JLpL7mda8uZshl-uLIX3Y"
         }
     ]
 }
